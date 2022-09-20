@@ -62,7 +62,7 @@ export default class NavbarComp extends Component {
                   About Us
                 </Nav.Link>
                 
-                <Nav.Link as={link} to="/name">
+                <Nav.Link as={Link} to="/name">
                   ECE444-Lab1
                 </Nav.Link>
 
