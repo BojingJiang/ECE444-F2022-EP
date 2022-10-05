@@ -14,3 +14,7 @@ Activity 1
 Activity 2
 
 <img width="1440" alt="activity_2" src="https://user-images.githubusercontent.com/40879743/193966705-8c83034a-1310-462e-8857-a4b1bb54f9b9.png">
+
+Activity 3
+
+<img width="1440" alt="activity_3" src="https://user-images.githubusercontent.com/40879743/194152361-fed516bb-12f6-4ce0-a003-e758ed61fd49.png">
