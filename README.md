@@ -10,3 +10,7 @@ This repository host the source code for Education Pathway project. You can view
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) for frontend, and [Flask-tdd](https://github.com/mjhea0/flaskr-tdd) for backend.
 
 Activity 1
+
+Activity 2
+
+<img width="1440" alt="activity_2" src="https://user-images.githubusercontent.com/40879743/193966705-8c83034a-1310-462e-8857-a4b1bb54f9b9.png">
